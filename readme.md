@@ -1,5 +1,7 @@
 # Les animaux totem
 
+Création du projet fin novembre 2020
+
 Il s'agit ici d'un exercice simple portant sur les bases du JS.  
 Pendant ma formation, à titre personnel, j'ai essayé de construire cette application afin de continuer à pratiquer le HTML, CSS et JS.
 
